@@ -1,6 +1,6 @@
 # Rust by example: asn-db and asn-tools
 
-![rc.jpg]
+![Roller coaster ride](rc.jpg)
 
 Roller coaster ride of Rust features by example with `asn-db` and `asn-tools` crates.
 
