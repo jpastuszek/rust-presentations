@@ -74,3 +74,25 @@
  * Writing unit tests
  * Running tests
  * Note on parallel execution
+
+* Command line applications
+ * Multiple binaries
+ * `main` function and it's return type
+ * Accessing arguments and environment
+
+* Parsing command line arguments with `StructOpt`
+ * `StructOpt` and `clap` crates
+ * Annotating arguments
+ * Accessing values
+ * Help message
+
+* Input and output
+ * Printing to `stdout` and `stderr`
+ * Logging with `log` crate
+ * Reading from `stdin`
+
+* Dynamic types
+ * References, `Sized` trait and stack
+ * Heap allocations and `Box` reference
+ * Trait objects and `dyn`
+ * `vtable` and zero cost abstraction
