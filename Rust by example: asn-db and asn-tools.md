@@ -1,8 +1,18 @@
 # Rust by example: asn-db and asn-tools
 
+![rc.jpg]
+
 Roller coaster ride of Rust features by example with `asn-db` and `asn-tools` crates.
 
-## What are crates?
+## Presentation
+
+In this presentation I will go through source code of `asn-db` and `asn-tools` crates.
+I will explain their structure and basic Rust features according to plan outlined here.
+This will be a 10000 foot view on programming in Rust.
+
+Questions are welcome.
+
+## Rust crates
 
  * Library vs binary crate
  * Binary crates with library code
