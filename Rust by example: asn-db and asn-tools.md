@@ -62,7 +62,7 @@ Roller coaster ride of Rust features by example with `asn-db` and `asn-tools` cr
  * `.next()`
  * Iterator composability and zero-cost performance
  * Creating iterators with `IntoIterator` trait
- * Consuming iterators with `collect` and "turbo fish" type annotations
+ * Consuming iterators with `collect` and "turbofish" type annotations
 
 ## CSV parsing
 
