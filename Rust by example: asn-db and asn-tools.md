@@ -6,7 +6,7 @@ Rust features by example with `asn-db` and `asn-tools` crates.
 
 © 2020 Jakub Pastuszek. Some Rights Reserved. The content of this presentation is licensed under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/) and presented source code licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
-## Presentation
+## Code presentation
 
 In this presentation, I will go through the source code of asn-db and asn-tools crates.
 I will explain their structure and basic Rust features according to the plan outlined here.
@@ -20,6 +20,7 @@ Questions are welcome.
  * [IPtoASN](https://iptoasn.com/) website and database files
  * `asn-db` and `asn-tools`
  * `asn-lookup` command demo
+ * Post about the presented crates: https://jpastuszek.net/asn/
 
 ## Rust crates
 
@@ -133,3 +134,7 @@ Questions are welcome.
  * Heap allocations and `Box` reference
  * Trait objects and `dyn`
  * `vtable` and zero cost abstraction
+
+## Thank you!
+
+ * Q & A
