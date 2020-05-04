@@ -1,6 +1,6 @@
 # Rust by example: asn-db and asn-tools
 
-![cover.png]
+![Kessel von Lanz](cover.png)
 
 Rust features by example with `asn-db` and `asn-tools` crates.
 
@@ -8,9 +8,9 @@ Rust features by example with `asn-db` and `asn-tools` crates.
 
 ## Presentation
 
-In this presentation I will go through source code of `asn-db` and `asn-tools` crates.
-I will explain their structure and basic Rust features according to plan outlined here.
-This will be a 10000 foot view on programming in Rust.
+In this presentation, I will go through the source code of asn-db and asn-tools crates.
+I will explain their structure and basic Rust features according to the plan outlined here.
+This will be a 10000-foot view on programming in Rust.
 
 Questions are welcome.
 
