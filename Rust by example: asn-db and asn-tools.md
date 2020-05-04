@@ -1,8 +1,10 @@
 # Rust by example: asn-db and asn-tools
 
-![rc.jpg]
+![cover.png]
 
-Roller coaster ride of Rust features by example with `asn-db` and `asn-tools` crates.
+Rust features by example with `asn-db` and `asn-tools` crates.
+
+© 2020 Jakub Pastuszek. Some Rights Reserved. The content of this presentation is licensed under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/) and presented source code licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
 ## Presentation
 
@@ -11,6 +13,13 @@ I will explain their structure and basic Rust features according to plan outline
 This will be a 10000 foot view on programming in Rust.
 
 Questions are welcome.
+
+## Autonomous Systems number database
+
+ * What is ASN
+ * [IPtoASN](https://iptoasn.com/) website and database files
+ * `asn-db` and `asn-tools`
+ * `asn-lookup` command demo
 
 ## Rust crates
 
@@ -25,9 +34,9 @@ Questions are welcome.
 
 ## Crates documentation
 
- * module level
- * item level
- * comments
+ * Module level
+ * Item level
+ * Comments
 
 ## Imports
 
