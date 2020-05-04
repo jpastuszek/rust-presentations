@@ -56,7 +56,7 @@ Questions are welcome.
 
  * Primitive types
  * `structs`, tuples and named tuples
- * `enums` sum type
+ * `enum` sum type
  * Functions and closures are first class objects
 
 ## Functions, methods and traits
