@@ -9,3 +9,4 @@ Rust Dublin meetup presentations
 * [Error handling in Rust](http://jpastuszek.github.io/rust-presentations/Error%20handling%20in%20Rust/assets/player/KeynoteDHTMLPlayer.html#0)
 * [Iterators](http://jpastuszek.github.io/rust-presentations/Iterators/Iterators.pdf)
 * [Rust Data Types v2](http://jpastuszek.github.io/rust-presentations/Rust%20Data%20Types%20v2/assets/player/KeynoteDHTMLPlayer.html#0)
+* [Rust by example asn-db and asn-tools](http://jpastuszek.github.io/rust-presentations/Rust%20by%20example%20asn-db%20and%20asn-tools/assets/player/KeynoteDHTMLPlayer.html#0)
