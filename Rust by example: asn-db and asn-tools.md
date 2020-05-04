@@ -26,12 +26,13 @@ Questions are welcome.
 
  * Library vs binary crate
  * Binary crates with library code
- * Using libraries with `cargo add`
+ * Contents of the `Cargo.toml` file
+ * Using libraries with `cargo add` (`cargo install cargo-edit`)
 
 ## Compiling and running
 
- * `check` vs `build` vs `install`
- * Running tests
+ * `cargo check`, `cargo build`, `cargo install` and `cargo run`
+ * Running tests with `cargo test`
 
 ## Crates documentation
 
@@ -47,20 +48,21 @@ Questions are welcome.
 
 ## Global variables
 
- * `const` expressions
+ * `const` expressions, "life before main", `lazy_static!` and ongoing work on const generics
  * Literal string vs literal binary string
  * UTF-8 encoding of source files
 
 ## Type in Rust
 
  * Primitive types
- * `structs`, tuples and other product types
+ * `structs`, tuples and named tuples
  * `enums` sum type
+ * Functions and closures are first class objects
 
 ## Functions, methods and traits
 
  * Free functions
- * Methods associated with types
+ * Methods and functions associated with types
  * Implementing traits and default implementations
 
 ## Deriving trait implementations
