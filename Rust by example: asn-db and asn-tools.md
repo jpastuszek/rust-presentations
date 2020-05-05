@@ -12,7 +12,7 @@ In this presentation, I will go through the source code of asn-db and asn-tools 
 I will explain their structure and basic Rust features according to the plan outlined here.
 This will be a 10000-foot view on programming in Rust.
 
-Questions are welcome.
+I hope you can all follow along. Please stop me and ask questions at any time.
 
 ## Autonomous Systems number database
 
@@ -62,14 +62,19 @@ Questions are welcome.
 ## Functions, methods and traits
 
  * Free functions
- * Methods and functions associated with types
+ * Methods and functions
  * Implementing traits and default implementations
+
+## Generics
+ * Trait bounds
+ * impl Trait syntax
+ * Lifetime parametrisation
 
 ## Deriving trait implementations
 
  * Deriving `Debug` and `Clone` trait
  * Manual implementation of `PartialEq` and `Eq` derive
- * Deriving `Serialize` with `serde_derive` procedural macros
+ * Deriving `Serialize` with `serde` procedural macros
 
 ## Implementing custom error types
 
@@ -82,17 +87,14 @@ Questions are welcome.
 
  * `Option` type
  * `.next()`
- * Iterator composability and zero-cost performance
+ * Iterator composability and "zero-cost abstraction"
  * Creating iterators with `IntoIterator` trait
- * Consuming iterators with `collect` and "turbofish" type annotations
+ * Collectig iterators with `collect`/`FromIterator` and "turbofish" type annotations
 
 ## CSV parsing
 
  * Builder pattern
  * `Read` trait and I/O in rust
- * Type parametrisation
- * Trait bounds and `impl`
- * Lifetime parametrisation
 
 ## Serialization
 
@@ -121,6 +123,7 @@ Questions are welcome.
 
  * `StructOpt` and `clap` crates
  * Annotating arguments
+ * Parsing custom argument types with `FromStr`
  * Accessing values
  * Help message
 
@@ -135,7 +138,7 @@ Questions are welcome.
  * References, `Sized` trait and stack
  * Heap allocations and `Box` reference
  * Trait objects and `dyn`
- * `vtable` and zero cost abstraction
+ * `vtable` and "zero-cost abstraction"
 
 ## Thank you!
 
